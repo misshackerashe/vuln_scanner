@@ -43,3 +43,53 @@ Instálalos con:
 
 ```bash
 pip install -r requirements.txt
+Estructura del Proyecto
+pgsql
+Copiar
+Editar
+vuln_scanner/
+├── scanner/
+│   ├── __init__.py
+│   ├── core.py
+│   └── utils.py
+├── ui/
+│   └── app.py
+├── data/
+│   └── vuln_db.json
+├── logs/
+│   └── results.json
+├── .venv/
+├── requirements.txt
+└── README.md
+Cómo ejecutar
+🔹 Activa el entorno virtual
+Windows PowerShell:
+
+bash
+Copiar
+Editar
+.venv\Scripts\Activate.ps1
+Linux/macOS:
+
+bash
+Copiar
+Editar
+source .venv/bin/activate
+Lanza la app
+Desde la raíz del proyecto:
+
+bash
+Copiar
+Editar
+python ui/app.py
+
+Licencia
+MIT License — libre uso con atribución. Úsalo para aprender, mejorar o construir sobre él.
+
+ Disclaimer
+Esta herramienta es con fines educativos. No la utilices sin autorización explícita. Escanear redes ajenas es ilegal y no es ético.
+
+css
+Copiar
+Editar
+
