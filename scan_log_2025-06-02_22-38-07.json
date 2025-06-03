@@ -1,16 +1,1 @@
-{
-    "timestamp": "2025-06-02_22-38-07",
-    "target": "nexnivo.com",
-    "protocol": "TCP",
-    "mode": "Aggressive",
-    "results": [
-        {
-            "port": 80,
-            "vulnerability": "Example Vuln 1"
-        },
-        {
-            "port": 443,
-            "vulnerability": "Example Vuln 2"
-        }
-    ]
-}
+
