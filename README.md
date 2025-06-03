@@ -2,9 +2,7 @@
 
 Un escáner de vulnerabilidades básico hecho en Python. Incluye backend modular y una interfaz gráfica atractiva con estilo ciberseguridad. Perfecto como proyecto de aprendizaje o base para herramientas más avanzadas.
 
----
-
-#Características
+-#Características
 
 - Detección básica de vulnerabilidades por banners.
 - Carga dinámica de una base de datos `vuln_db.json`.
@@ -13,9 +11,6 @@ Un escáner de vulnerabilidades básico hecho en Python. Incluye backend modular
 - Logs automáticos de los escaneos.
 - Estilo visual "cyber" con DarkMode.
 - Estructura profesional y lista para expansión.
-
----
-
 # Roadmap
 
 - [x] Backend funcional con análisis por puertos.
@@ -88,8 +83,3 @@ MIT License — libre uso con atribución. Úsalo para aprender, mejorar o const
 
  Disclaimer
 Esta herramienta es con fines educativos. No la utilices sin autorización explícita. Escanear redes ajenas es ilegal y no es ético.
-
-css
-Copiar
-Editar
-
