@@ -1,0 +1,15 @@
+
+[
+    {
+        "banner_signature": "vsFTPd 2.3.4",
+        "vulnerability": "Backdoor vulnerability allowing remote code execution"
+    },
+    {
+        "banner_signature": "OpenSSH 7.2p2",
+        "vulnerability": "Information disclosure vulnerability"
+    },
+    {
+        "banner_signature": "Apache httpd 2.4.49",
+        "vulnerability": "Path traversal and remote code execution (CVE-2021-41773)"
+    }
+]

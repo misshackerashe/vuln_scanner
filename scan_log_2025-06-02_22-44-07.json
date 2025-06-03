@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-06-02_22-44-07",
+    "target": "10.0.0.84",
+    "protocol": "TCP",
+    "mode": "Stealth",
+    "results": [
+        {
+            "port": 80,
+            "vulnerability": "Example Vuln 1"
+        },
+        {
+            "port": 443,
+            "vulnerability": "Example Vuln 2"
+        }
+    ]
+}
