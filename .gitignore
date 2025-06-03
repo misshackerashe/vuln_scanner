@@ -2,3 +2,5 @@
 *.json
 /scanner/
 /ui/
+*.log
+*.json
